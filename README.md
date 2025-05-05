@@ -1,1 +1,11 @@
 # Zerodha-Clone
+
+
+# Technologies
+HTML
+CSS
+JAVASCRIPT
+MONGO DB
+EXPRESS 
+REACT
+NODE 
