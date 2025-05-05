@@ -9,7 +9,7 @@ JAVASCRIPT,
 MONGO DB,
 EXPRESS JS,
 REACT,
-NODE JS,
+NODE JS
 
 =======
 >>>>>>> c9de8a1 (Add some files and changes)
