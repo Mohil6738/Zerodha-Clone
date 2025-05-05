@@ -3,9 +3,6 @@ This is a zerodha clone. It uses MERN stack to develop the entire website.
 
 
 # Technologies used for creation
-=======
-# Technologies
-
 HTML,
 CSS,
 JAVASCRIPT,
