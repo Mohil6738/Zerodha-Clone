@@ -1,5 +1,5 @@
 # Zerodha-Clone
-<<<<<<< HEAD
+<<<<<<< HEAD        
 This is a zerodha clone. It uses MERN stack to develop the entire website.
 
 # Technologies
