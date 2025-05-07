@@ -10,7 +10,7 @@ const Funds = () => {
         <Link className="btn btn-blue">Withdraw</Link>
       </div>
 
-      {/* <div className="row">
+      <div className="row">
         <div className="col">
           <span>
             <p>Equity</p>
@@ -80,7 +80,7 @@ const Funds = () => {
             <Link className="btn btn-blue">Open Account</Link>
           </div>
         </div>
-      </div> */}
+      </div>
     </>
   );
 };
